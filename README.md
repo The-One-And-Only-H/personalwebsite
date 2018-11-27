@@ -1,2 +1,8 @@
 # personalwebsite
-Bits and bobs for my personal website - currently under construction
+Static personal website currently a WIP.
+
+Tech stack: 
+- HTML5
+- CSS3
+- JavaScript
+- Python
